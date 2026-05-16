@@ -1,4 +1,4 @@
-# 🎓 Intelligent Student Early Warning & Academic Intervention System
+# 🎓 AI-Driven Student Risk Prediction & Intervention System
 
 An advanced AI-powered educational analytics platform developed to identify academically vulnerable students at an early stage and assist educators with personalized intervention strategies. This system combines Machine Learning, Intelligent AI Agents, Predictive Analytics, and Interactive Dashboards to help institutions improve student outcomes through proactive monitoring and data-driven decision making.
 
